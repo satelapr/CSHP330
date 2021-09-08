@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EnroleClassModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Class">
+    <Key>
+      <PropertyRef Name="ClassId" />
+    </Key>
+    <Property Name="ClassId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ClassName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ClassDescription" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ClassPrice" Type="Decimal" Precision="10" Scale="4" Nullable="false" />
+    <NavigationProperty Name="UserClasses" Relationship="Self.FK_UserClass_Class" FromRole="Class" ToRole="UserClass" />
+  </EntityType>
+  <EntityType Name="UserClass">
+    <Key>
+      <PropertyRef Name="ClassId" />
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserClassId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ClassId" Type="Int32" Nullable="false" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Class" Relationship="Self.FK_UserClass_Class" FromRole="UserClass" ToRole="Class" />
+    <NavigationProperty Name="User" Relationship="Self.FK_UserClass_User" FromRole="UserClass" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserEmail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="UserPassword" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="UserIsAdmin" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="UserClasses" Relationship="Self.FK_UserClass_User" FromRole="Users" ToRole="UserClass" />
+  </EntityType>
+  <Association Name="FK_UserClass_Class">
+    <End Role="Class" Type="Self.Class" Multiplicity="1" />
+    <End Role="UserClass" Type="Self.UserClass" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Class">
+        <PropertyRef Name="ClassId" />
+      </Principal>
+      <Dependent Role="UserClass">
+        <PropertyRef Name="ClassId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserClass_User">
+    <End Role="Users" Type="Self.User" Multiplicity="1" />
+    <End Role="UserClass" Type="Self.UserClass" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="UserClass">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EnroleClassEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Classes" EntityType="Self.Class" />
+    <EntitySet Name="UserClasses" EntityType="Self.UserClass" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <AssociationSet Name="FK_UserClass_Class" Association="Self.FK_UserClass_Class">
+      <End Role="Class" EntitySet="Classes" />
+      <End Role="UserClass" EntitySet="UserClasses" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserClass_User" Association="Self.FK_UserClass_User">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="UserClass" EntitySet="UserClasses" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,166 @@
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\EnroleClass.dll.config
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\EnroleClass.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\EnroleClass.pdb
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\csc.exe
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\csc.exe.config
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\csc.rsp
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\csi.exe
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\csi.exe.config
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\csi.rsp
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\Microsoft.Managed.Core.targets
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.AppContext.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.Collections.Immutable.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.Console.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.Globalization.Calendars.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.IO.Compression.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.IO.FileSystem.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.Net.Http.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.Net.Sockets.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.Reflection.Metadata.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.ValueTuple.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.Xml.XmlDocument.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.Xml.XPath.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\vbc.exe
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\vbc.exe.config
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\vbc.rsp
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\VBCSCompiler.exe
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\roslyn\VBCSCompiler.exe.config
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\Antlr3.Runtime.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\EntityFramework.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\EntityFramework.SqlServer.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\Microsoft.Web.Infrastructure.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\Newtonsoft.Json.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\System.Web.Helpers.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\System.Web.Mvc.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\System.Web.Optimization.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\System.Web.Razor.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\System.Web.WebPages.Deployment.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\System.Web.WebPages.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\System.Web.WebPages.Razor.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\WebGrease.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\EntityFramework.xml
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\EntityFramework.SqlServer.xml
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\System.Web.Helpers.xml
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\System.Web.Mvc.xml
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\System.Web.Optimization.xml
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\System.Web.Razor.xml
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\System.Web.WebPages.xml
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\System.Web.WebPages.Deployment.xml
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\System.Web.WebPages.Razor.xml
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\Newtonsoft.Json.xml
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\Antlr3.Runtime.pdb
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\obj\Debug\EnroleClass.csprojAssemblyReference.cache
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\obj\Debug\EnroleClass.csproj.CoreCompileInputs.cache
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\obj\Debug\EnroleClass.csproj.CopyComplete
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\obj\Debug\EnroleClass.dll
+E:\SampleProject\EnrolledAStudent\EnroleClass\EnroleClass\obj\Debug\EnroleClass.pdb
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\EnroleClass.dll.config
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\EnroleClass.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\EnroleClass.pdb
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\csc.exe
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\csc.exe.config
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\csc.rsp
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\csi.exe
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\csi.exe.config
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\csi.rsp
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.AppContext.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.Console.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.IO.Compression.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.Net.Http.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.Net.Sockets.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.ValueTuple.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.Xml.XPath.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\vbc.exe
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\vbc.exe.config
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\vbc.rsp
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\VBCSCompiler.exe
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\Antlr3.Runtime.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\EntityFramework.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\EntityFramework.SqlServer.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\Newtonsoft.Json.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\System.Web.Helpers.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\System.Web.Mvc.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\System.Web.Optimization.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\System.Web.Razor.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\System.Web.WebPages.Deployment.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\System.Web.WebPages.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\System.Web.WebPages.Razor.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\WebGrease.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\EntityFramework.xml
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\EntityFramework.SqlServer.xml
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\System.Web.Helpers.xml
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\System.Web.Mvc.xml
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\System.Web.Optimization.xml
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\System.Web.Razor.xml
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\System.Web.WebPages.xml
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\System.Web.WebPages.Deployment.xml
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\System.Web.WebPages.Razor.xml
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\Newtonsoft.Json.xml
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\Antlr3.Runtime.pdb
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\obj\Debug\EnroleClass.csprojAssemblyReference.cache
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\obj\Debug\EnroleClass.csproj.CoreCompileInputs.cache
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\obj\Debug\EnroleClass.csproj.CopyComplete
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\obj\Debug\EnroleClass.dll
+C:\Users\satelapr\OneDrive - Microsoft\CSHP-UW class work\CSHP330\LearningWebsite\EnroleClass\EnroleClass\obj\Debug\EnroleClass.pdb

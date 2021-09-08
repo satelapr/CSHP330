@@ -1,0 +1,16 @@
+﻿@model EnroleClass.Models.CustomClasses
+@{
+    ViewBag.Title = "EnrollInClass";
+}
+<h2>Enroll In Class</h2>
+
+@using (Html.BeginForm("EnrollInClass", "Home",FormMethod.Post))
+{
+    @Html.AntiForgeryToken();
+    @Html.DropDownListFor(Model => Model.ClassId, new SelectList(Model.ClassList, "ClassId", "ClassName"))
+    <input type="submit" value="Add Class" />
+
+}
+
+
+

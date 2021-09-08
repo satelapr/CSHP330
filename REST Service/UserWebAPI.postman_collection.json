@@ -1,0 +1,131 @@
+{
+	"info": {
+		"_postman_id": "ec61bb5a-f2be-4ec6-9614-467a7423bb2e",
+		"name": "UserWebAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Post Users",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Email\":\"test@gmail.com\",\r\n    \"Password\":\"password@123\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44345/api/Users",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44345",
+					"path": [
+						"api",
+						"Users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Users",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44345/api/Users",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44345",
+					"path": [
+						"api",
+						"Users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Single User",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44345/api/Users/1",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44345",
+					"path": [
+						"api",
+						"Users",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Put User",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"UserID\":1,\r\n    \"Email\":\"test@gmail.com\",\r\n    \"Password\":\"password@123\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44345/api/Users/1",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44345",
+					"path": [
+						"api",
+						"Users",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete User",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44345/api/Users/1",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44345",
+					"path": [
+						"api",
+						"Users",
+						"1"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
